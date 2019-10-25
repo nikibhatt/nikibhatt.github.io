@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Interesting Data Science projects
 ---
 
 My name is Niki Bhatt. I love to explore, learn and share. And that is why I am a data scientist.
