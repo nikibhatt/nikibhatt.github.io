@@ -1,6 +1,3 @@
-# Niki Bhatt
-
-Contents
 - I am curious and that is why I am a data scientist
 - I care and that is why I matter
 - I am responsible and that is why I try
