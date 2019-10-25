@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Differences in Mobile applications targeted to teenagers and others
+title: Mobile apps for Teens and others
 gh-repo: https://github.com/nikibhatt/nikibhatt.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
