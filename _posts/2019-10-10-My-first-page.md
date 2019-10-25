@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Mobile apps for Teens and others
-gh-repo: https://github.com/nikibhatt/nikibhatt.github.io
+gh-repo: https://github.com/nikibhatt/DS-Unit-1-Build/blob/master/MobileAppsforTeens.ipynb
 ---
 
 Analyze the GooglePlayStore data to find differences in apps with "Teen" rating and those without. This is to understand the trends that are unique to the teenage population as compared to others. 
