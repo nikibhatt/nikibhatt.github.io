@@ -5,4 +5,4 @@ gh-repo: https://github.com/nikibhatt
 comments: true
 ---
 
-Analyze Airbnb data to understand the trends in this area.
+Analyze Airbnb data to understand the trends in this area using various graphical tools and libraries.
