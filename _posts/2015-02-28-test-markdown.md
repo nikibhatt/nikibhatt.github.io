@@ -5,4 +5,4 @@ gh-repo: https://github.com/nikibhatt
 comments: true
 ---
 
-Analyze Airbnb data to understand the trends in this area using various graphical tools and libraries.Blog: <a href=" https://medium.com/@nikibhatt_87978/analysis-of-airbnb-data-for-santa-clara-county-in-the-bay-area-4683b47e28bd" title="Analysis of Airbnb data for Santa Clara county in the Bay Area"></a>
+Analyze Airbnb data to understand the trends in this area using various graphical tools and libraries. Blog: <a href="https://medium.com/@nikibhatt_87978/analysis-of-airbnb-data-for-santa-clara-county-in-the-bay-area-4683b47e28bd" title="Differences in Mobile applications targeted to teenagers and others">Differences in Mobile applications targeted to teenagers and others</a>
